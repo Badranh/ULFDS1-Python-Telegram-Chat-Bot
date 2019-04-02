@@ -7,6 +7,7 @@
 
 # Before running the script you have to download the following libraries 
 **You should have python installed** 
+**Download chrome driver: http://chromedriver.chromium.org**
 ```
 pip install python-telegram-bot
 pip install selenium
