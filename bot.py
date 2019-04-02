@@ -2,8 +2,6 @@ from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, RegexHandler,ConversationHandler
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import time
-import logging
 
 
 global username_
